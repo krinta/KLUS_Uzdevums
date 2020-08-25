@@ -1,0 +1,130 @@
+html, body{
+    height: 100vh;
+
+}
+.kr-kolona{
+    background: linear-gradient(180deg, #0084F8 0%, #00C6FF 100%);
+}
+.lb-kolona{
+
+    background: #E5E5E5;
+}
+.Sveiciens{
+    left:80px;
+    height: 140px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 70px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.line{
+    width: 55%;
+    height: 0px;
+    left: 177px;
+    top: 308px;
+    border: 1px solid #FFFFFF;
+}
+.paskaidrojums{
+    left: 76px;
+    top: 348px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.group1{
+    margin:0px auto;
+    margin-top: 5vh;
+    align-content: center;
+    width: 90%;
+    height: 256px;
+    left:30px;    
+}
+
+.bilde{
+    margin:0 auto;
+    display: block;
+    margin-top: 5vh;
+}
+
+.zila{
+    color: #0084F8;
+    text-align: left;
+}
+
+.peleks{
+    color: #52616B;
+    text-align: left;
+}
+
+.kaste{
+    display: block;
+
+}
+
+
+.poga1{
+    display: inline-flex;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    border:1px solid #025ba8;
+    display: inline-flex;
+    align-items: center;
+    background: #0084F8;    
+    color: #FFFFFF;
+    
+
+}
+.poga2{
+    display: inline-flex;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    border:1px solid #025ba8;
+    display: inline-flex;
+    align-items: center;
+    background:#FFFFFF;    
+    color:   #0084F8;
+    
+
+
+
+}
+.group2{
+    margin:0px auto;
+    margin-top: 10vh;
+
+    align-content: center;
+    width: 90%;
+    
+    left:30px;    
+}
+.poga3{
+    display: inline-flex;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    border:1px solid #f86b59;;
+    display: inline-flex;
+    align-items: center;
+    background: #FF8576;    
+    color: #FFFFFF;
+    position: absolute;
+    bottom: 2vh;
+    right: 2vw; 
+
+}
